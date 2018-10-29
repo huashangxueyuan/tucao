@@ -14,7 +14,7 @@
 
 ## 实战训练
 
-1. 注册 Github 账号
+1. 注册 Github 账号(https://github.com/join)
 2. 使用 Github 账号登录 AitSchool 学习平台（ [https://www.aitschool.com](https://www.aitschool.com) ）
 3. 进入 校园马拉松专项页面，点击查看大纲可以看到本课程需要学习的和实战训练内容。
 4. 根据课程中视频、图文进行学习，有不懂的地方可以随时在微信群中交流。
